@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+6-phosphogluconate	Ribulose-5-phosphate	Biochemical Reaction	PGD	Catalysis	erythrocyte	18226191	PGD		
+6-phosphogluconolactone	6-phosphogluconate	Biochemical Reaction	PGLS	Catalysis	erythrocyte		PGLS		
+Fructose-6-phosphate	Glucose-6-phosphate	Biochemical Reaction			erythrocyte	21376665,18226191			
+Glucose	Glucose-6-phosphate	Biochemical Reaction	HK1	Catalysis	erythrocyte	21376665,18177777,16204390,13799836	HK1		
+Glucose-6-phosphate	6-phosphogluconolactone	Biochemical Reaction	G6PD	Catalysis	erythrocyte	21376665,20350285,18177777,18226191,16204390	G6PD		
+Glucose-6-phosphate	Fructose-6-phosphate	Biochemical Reaction	GPI	Catalysis	erythrocyte	21376665,18226191	GPI		
+NADP	NADPH	Biochemical Reaction	G6PD	Catalysis	erythrocyte	21376665,20350285,18177777,18226191,16204390	G6PD		
+NADP	NADPH	Biochemical Reaction	PGD	Catalysis	erythrocyte	18177777,18226191	PGD		
+Ribulose-5-phosphate	Ribose-5-phosphate	Biochemical Reaction			erythrocyte				
+Glucose	SLC2A1	Transport			erythrocyte	15862084,8839927	SLC2A1		
+SLC2A1	Glucose	Transport			erythrocyte	8839927	SLC2A1		

@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+AGTR1	AGTR1	Biochemical Reaction	E-3174,losartan	Control	hepatocyte	16029066	AGTR1	losartan	
+E-3174	M4	Biochemical Reaction			hepatocyte	7736913,1352222			
+E-3179	E-3174	Biochemical Reaction	CYP2C9,CYP3A4	Catalysis	hepatocyte	15197523,14504849,11823761,11408373,10424320,10197301,10096267,9542475,9551703,8529329,7736913,7736926,8385175	"CYP2C9","CYP3A4"		
+E-3179	P1	Biochemical Reaction			hepatocyte	7736913			
+losartan	E-3179	Biochemical Reaction	CYP2C9,CYP3A4	Catalysis	hepatocyte	15197523,14504849,11823761,11408373,10424320,10197301,10096267,9542475,9551703,8529329,7736913,7736926,8385175	"CYP2C9","CYP3A4"	losartan	
+losartan	M1	Biochemical Reaction			hepatocyte	7736913,1352222		losartan	
+losartan	M2	Biochemical Reaction	CYP2C9,CYP3A4	Catalysis	hepatocyte	7736913,1352222	"CYP2C9","CYP3A4"	losartan	
+losartan	M5	Biochemical Reaction	CYP2C9,CYP3A4	Catalysis	hepatocyte	7736913,1352222	"CYP2C9","CYP3A4"	losartan	
+losartan	M7	Biochemical Reaction	UGT1A1,UGT2B7	Catalysis	hepatocyte	18674515,7736913,1352222	"UGT1A1","UGT2B7"	losartan	

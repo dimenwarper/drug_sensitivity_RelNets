@@ -1,0 +1,13 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+4-hydroxycyclophosphamide	4-ketocyclophosphamide	Biochemical Reaction	ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7	Catalysis	cell	10410955,9884322,1131393,5446958	"ADH4","ADH1C","ADH1B","ADH1A","ADH7","ADH5","ADH6"		
+4-hydroxycyclophosphamide	aldophosphamide	Biochemical Reaction			cell	10469895,6708049			
+acrolein	acrylic acid	Biochemical Reaction	ALDH1A1,ALDH3A1	Catalysis	cell		"ALDH3A1","ALDH1A1"		
+acrolein,glutathione	thioether product	Biochemical Reaction			cell	8887466			
+aldophosphamide	alcophosphamide	Biochemical Reaction	ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7,AKR1A1,AKR1B1,AKR1B10	Catalysis	cell	9394035,8216347	"ADH4","AKR1B10","ADH1C","ADH1B","ADH1A","AKR1A1","AKR1B1","ADH7","ADH5","ADH6"		
+aldophosphamide	carboxyphosphamide	Biochemical Reaction	ALDH1A1,ALDH3A1,ALDH5A1	Catalysis	cell	10469894,9394035,7365745	"ALDH3A1","ALDH5A1","ALDH1A1"		
+aldophosphamide	acrolein,phosphoramide mustard	Biochemical Reaction			cell	10469895,3815352,3806624,6708049			
+chloro-acetaldehyde	chloroacetic acid	Biochemical Reaction	ALDH2	Catalysis	cell	9298599	ALDH2		
+phosphoramide mustard	chloroethyl aziridine	Biochemical Reaction			cell	9484502			
+4-hydroxycyclophosphamide	4-hydroxycyclophosphamide	Transport			cell				
+aldophosphamide	aldophosphamide	Transport			cell				
+chloro-acetaldehyde	chloro-acetaldehyde	Transport			cell				

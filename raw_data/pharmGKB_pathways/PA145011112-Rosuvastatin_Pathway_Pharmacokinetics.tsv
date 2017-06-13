@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+rosuvastatin	Active & Inactive metabolites	Biochemical Reaction			hepatocyte			rosuvastatin	
+rosuvastatin	rosuvastatin	Transport	SLCO1B1,SLCO1B3,SLCO2B1	Catalysis	hepatocyte		"SLCO1B1","SLCO2B1","SLCO1B3"	rosuvastatin	
+rosuvastatin	rosuvastatin	Transport	SLCO2B1	Catalysis	enterocyte		SLCO2B1	rosuvastatin	
+rosuvastatin	rosuvastatin	Transport	ABCB11	Catalysis	hepatocyte		ABCB11	rosuvastatin	

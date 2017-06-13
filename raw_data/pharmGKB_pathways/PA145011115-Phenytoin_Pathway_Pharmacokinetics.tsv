@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+hydroxyphenytoin	hydroxyphenytoin-O-glucuronide	Biochemical Reaction	UGT1A1,UGT1A4,UGT1A6,UGT1A9	Catalysis	hepatocyte	17576806,15855726,12386132	"UGT1A1","UGT1A4","UGT1A9","UGT1A6"		
+hydroxyphenytoin	phenytoin catechol	Biochemical Reaction	CYP2B6,CYP2C19,CYP2C9,CYP2D6,CYP3A4,CYP3A5,CYP3A7	Catalysis	hepatocyte	16359177,11038165,10901705	"CYP2C9","CYP2B6","CYP2D6","CYP2C19","CYP3A4","CYP3A5","CYP3A7"		
+phenytoin arene-oxide	hydroxyphenytoin	Biochemical Reaction			hepatocyte	16815679			
+phenytoin arene-oxide	phenytoin dihydrodiol	Biochemical Reaction	CYP1A2,CYP2A6,CYP2C19,CYP2C8,CYP2C9,CYP2D6,CYP2E1,CYP3A4,EPHX1	Catalysis	hepatocyte	11038165,9798756	"CYP2C9","CYP2A6","CYP2C8","CYP2D6","CYP1A2","EPHX1","CYP2E1","CYP2C19","CYP3A4"		
+phenytoin catechol	phenytoin methylcatechol	Biochemical Reaction	COMT	Catalysis	hepatocyte	9798756	COMT		
+phenytoin catechol	phenytoin quinone	Biochemical Reaction	NQO1	Catalysis	hepatocyte	9798756	NQO1		
+phenytoin dihydrodiol	phenytoin catechol	Biochemical Reaction			hepatocyte	9798756			
+phenytoin	phenytoin arene-oxide	Biochemical Reaction	CYP2C19,CYP2C9	Catalysis	hepatocyte	9798756	"CYP2C9","CYP2C19"	phenytoin	

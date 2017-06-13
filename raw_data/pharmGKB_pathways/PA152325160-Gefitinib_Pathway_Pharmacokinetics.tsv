@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+CYP1A1	CYP1A1	Biochemical Reaction	gefitinib	Control	hepatocyte		CYP1A1	gefitinib	
+CYP2C19	CYP2C19	Biochemical Reaction	gefitinib	Control	hepatocyte		CYP2C19	gefitinib	
+CYP2C9	CYP2C9	Biochemical Reaction	gefitinib	Control	hepatocyte		CYP2C9	gefitinib	
+CYP2D6	CYP2D6	Biochemical Reaction	gefitinib	Control	hepatocyte		CYP2D6	gefitinib	
+gefitinib	M387783	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte		"CYP3A4","CYP3A5"	gefitinib	
+gefitinib	M523595	Biochemical Reaction	CYP2D6,CYP3A4	Catalysis	hepatocyte		"CYP2D6","CYP3A4"	gefitinib	
+gefitinib	M537194	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte		"CYP3A4","CYP3A5"	gefitinib	
+gefitinib	gefitinib	Transport	ABCB1,ABCG2	Catalysis	hepatocyte		"ABCB1","ABCG2"	gefitinib	

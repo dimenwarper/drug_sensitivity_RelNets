@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+methotrexate	methotrexate	Transport	ABCB1	Catalysis	choroid plexus epithelial cell		ABCB1	methotrexate	
+methotrexate	methotrexate	Transport	SLC22A6,SLC22A8	Catalysis	choroid plexus epithelial cell	12011098,7388786	"SLC22A6","SLC22A8"	methotrexate	
+methotrexate	methotrexate	Transport	ABCB1,ABCC4,ABCG2,SLC22A8	Catalysis	endothelial cell	16146333	"ABCC4","ABCB1","SLC22A8","ABCG2"	methotrexate	
+methotrexate	methotrexate	Transport	ABCC1,ABCC4	Catalysis	choroid plexus epithelial cell	11139374	"ABCC4","ABCC1"	methotrexate	
+methotrexate	methotrexate	Transport	SLCO1A2	Catalysis	endothelial cell	16702441	SLCO1A2	methotrexate	
+SLC22A8	methotrexate	Transport	SLC22A8	Catalysis	endothelial cell		SLC22A8	methotrexate	

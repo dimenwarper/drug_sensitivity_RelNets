@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+N, O-didesmethyl venlafaxine	N, N, O-tridesmethyl venlafaxine	Biochemical Reaction			hepatocyte	8337893			
+N, O-didesmethyl venlafaxine	N, O-didesmethyl venlafaxine glucuronide	Biochemical Reaction			hepatocyte	8337893			
+N-desmethyl venlafaxine	N, O-didesmethyl venlafaxine	Biochemical Reaction	CYP2C19,CYP2D6	Catalysis	hepatocyte	21099743	"CYP2D6","CYP2C19"		
+O-desmethyl venlafaxine	N, O-didesmethyl venlafaxine	Biochemical Reaction	CYP2C19,CYP3A4	Catalysis	hepatocyte	21099743,19142106	"CYP2C19","CYP3A4"		
+O-desmethyl venlafaxine	O-desmethyl venlafaxine glucuronide	Biochemical Reaction			hepatocyte	8337893			
+SLC6A2	SLC6A2	Biochemical Reaction	O-desmethyl venlafaxine,venlafaxine	Control	hepatocyte	11098412,7729333	SLC6A2	venlafaxine	
+SLC6A4	SLC6A4	Biochemical Reaction	O-desmethyl venlafaxine,venlafaxine	Control	hepatocyte	11098412,7729333	SLC6A4	venlafaxine	
+venlafaxine	N-desmethyl venlafaxine	Biochemical Reaction	CYP2C19,CYP3A4	Catalysis	hepatocyte		"CYP2C19","CYP3A4"	venlafaxine	
+venlafaxine	O-desmethyl venlafaxine	Biochemical Reaction	CYP2C19,CYP2D6	Catalysis	hepatocyte		"CYP2D6","CYP2C19"	venlafaxine	

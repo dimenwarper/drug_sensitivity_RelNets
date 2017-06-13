@@ -1,0 +1,36 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+SLC22A11	SLC22A11	Biochemical Reaction	probenecid	Inhibition	cell	23318701	SLC22A11	probenecid	
+SLC22A12	SLC22A12	Biochemical Reaction	benzbromarone,indomethacin,losartan,probenecid,salicylic acid,sulfinpyrazone,tranilast,vitamin c	Inhibition	cell	23318701,23253231,22945592,21272127,18670416,12024214,8743498,1948784,668783	SLC22A12	"probenecid","tranilast","benzbromarone","vitamin c","salicylic acid","losartan","sulfinpyrazone","indomethacin"	
+SLC22A13	SLC22A13	Biochemical Reaction	probenecid	Inhibition	cell	18411268	SLC22A13	probenecid	
+SLC22A6	SLC22A6	Biochemical Reaction	benzbromarone,probenecid	Inhibition	cell	12472777	SLC22A6	"probenecid","benzbromarone"	
+SLC2A9	SLC2A9	Biochemical Reaction	benzbromarone,tranilast	Inhibition	cell	23318701,22945592	SLC2A9	"tranilast","benzbromarone"	
+	Uric Acid	Transport		Control					
+ABCC4	Uric Acid	Transport			cell	23318701,22945592,22359229,20613716	ABCC4		
+ABCG2	Uric Acid	Transport			cell	22945592,22359229,20613716	ABCG2		
+LGALS9	Uric Acid	Transport			cell	22359229	LGALS9		
+LGALS9	Uric Acid	Transport			cell	22359229	LGALS9		
+SLC17A1	Uric Acid	Transport			cell	22945592,22359229,20613716	SLC17A1		
+SLC17A3	Uric Acid	Transport			cell	22945592,22359229,20613716	SLC17A3		
+SLC22A11	Uric Acid	Transport			cell	22945592,22359229,20884846,20613716,17674156,15037815	SLC22A11		
+SLC22A12	Uric Acid	Transport			cell	22945592,22359229,21272127,20613716,12024214	SLC22A12		
+SLC22A13	Uric Acid	Transport			cell	22038265,21103968,18411268	SLC22A13		
+SLC22A6	Uric Acid	Transport			cell	23318701,22945592,22359229	SLC22A6		
+SLC22A8	Uric Acid	Transport			cell	23318701,22945592,22359229	SLC22A8		
+SLC2A9	Uric Acid	Transport			cell	22945592,22359229,20613716,18842065	SLC2A9		
+SLC2A9	Uric Acid	Transport			cell	22945592,22359229,20613716,18842065	SLC2A9		
+SLC2A9	Uric Acid	Transport			cell	23318701,22945592,22359229,20613716	SLC2A9		
+Uric Acid	ABCC4	Transport			cell	23318701,22945592,22359229,20613716	ABCC4		
+Uric Acid	ABCG2	Transport			cell	22945592,22359229,20613716	ABCG2		
+Uric Acid	LGALS9	Transport			cell	22359229	LGALS9		
+Uric Acid	LGALS9	Transport			cell	22359229	LGALS9		
+Uric Acid	PDZK1	Transport			cell	22945592,22359229,19503597	PDZK1		
+Uric Acid	SLC17A1	Transport			cell	22945592,22359229,20613716	SLC17A1		
+Uric Acid	SLC17A3	Transport			cell	22945592,22359229,20613716	SLC17A3		
+Uric Acid	SLC22A11	Transport			cell	22945592,22359229,20884846,20613716,17674156,15037815	SLC22A11		
+Uric Acid	SLC22A12	Transport			cell	23318701,22945592,22359229,20613716,18636784,12024214	SLC22A12		
+Uric Acid	SLC22A13	Transport			cell	22038265,21103968,18411268	SLC22A13		
+Uric Acid	SLC22A6	Transport			cell	23318701,22945592,22359229	SLC22A6		
+Uric Acid	SLC22A8	Transport			cell	23318701,22945592,22359229	SLC22A8		
+Uric Acid	SLC2A9	Transport			cell	22945592,22359229,20613716,18842065	SLC2A9		
+Uric Acid	SLC2A9	Transport			cell	22945592,22359229,20613716,18842065	SLC2A9		
+Uric Acid	SLC2A9	Transport			cell	22945592,22359229,20613716,18842065	SLC2A9		

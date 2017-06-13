@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+CYP2B6	CYP2B6	Biochemical Reaction	NR1I2,NR1I3	Activation	hepatocyte	20861742,17041008	"CYP2B6","NR1I3","NR1I2"		
+CYP3A4	CYP3A4	Biochemical Reaction	NR1I2	Activation	hepatocyte	20861742,15496645	"NR1I2","CYP3A4"		
+NR1I2	NR1I2	Biochemical Reaction	efavirenz	Activation	hepatocyte	20861742,15496645	NR1I2	efavirenz	
+NR1I3	NR1I3	Biochemical Reaction	efavirenz	Activation	hepatocyte	17041008	NR1I3	efavirenz	
+7-hydroxyefavirenz	7-hydroxyefavirenz glucuronide	Conversion	UGT1A1,UGT1A10,UGT1A3,UGT1A7,UGT1A8,UGT1A9,UGT2B15,UGT2B7	Catalysis	hepatocyte	22252501,21319958,10534318	"UGT1A10","UGT1A1","UGT2B15","UGT1A3","UGT1A9","UGT1A8","UGT1A7","UGT2B7"		
+8,14-dihydroxyefavirenz	8,14-dihydroxyefavirenz glucuronide	Conversion	UGT1A1,UGT1A10,UGT1A3,UGT1A7,UGT1A8,UGT1A9,UGT2B7	Catalysis	hepatocyte	22252501,21319958,10534318	"UGT1A10","UGT1A1","UGT1A3","UGT1A9","UGT1A8","UGT1A7","UGT2B7"		
+8-hydroxyefavirenz	8,14-dihydroxyefavirenz	Conversion	CYP2B6	Catalysis	hepatocyte	20335270,12676886,10534318	CYP2B6		
+8-hydroxyefavirenz	8-hydroxyefavirenz glucuronide	Conversion	UGT1A1,UGT1A10,UGT1A3,UGT1A7,UGT1A8,UGT1A9,UGT2B15,UGT2B4,UGT2B7	Catalysis	hepatocyte	22252501,21319958,10534318	"UGT1A10","UGT1A1","UGT2B15","UGT2B4","UGT1A3","UGT1A9","UGT1A8","UGT1A7","UGT2B7"		
+efavirenz	7-hydroxyefavirenz	Conversion	CYP2A6	Catalysis	hepatocyte	20335270,17559344,12676886,10534318	CYP2A6	efavirenz	
+efavirenz	8-hydroxyefavirenz	Conversion	CYP1A2,CYP2A6,CYP2B6,CYP3A4,CYP3A5	Catalysis	hepatocyte	22252501,20335270,17559344,12676886,10534318	"CYP2A6","CYP2B6","CYP1A2","CYP3A4","CYP3A5"	efavirenz	
+efavirenz	efavirenz-N-glucuronide	Conversion	UGT2B7	Catalysis	hepatocyte	22252501,21319958,21282425,19487252,10534318	UGT2B7	efavirenz	

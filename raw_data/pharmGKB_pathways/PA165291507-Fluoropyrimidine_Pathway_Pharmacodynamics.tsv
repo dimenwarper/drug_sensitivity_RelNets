@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+5,10-methylenetetrahydrofolate	dihydrofolate	Biochemical Reaction	TYMS	Catalysis	cell		TYMS		
+capecitabine	fluorouracil	Biochemical Reaction			cell			"capecitabine","fluorouracil"	
+dUMP	dTMP	Biochemical Reaction	TYMS	Catalysis	cell		TYMS		
+fluorouracil	FdUMP	Biochemical Reaction		Catalysis	cell			fluorouracil	
+fluorouracil	FdUTP	Biochemical Reaction		Catalysis	cell			fluorouracil	
+fluorouracil	FUTP	Biochemical Reaction		Catalysis	cell			fluorouracil	
+tegafur	fluorouracil	Biochemical Reaction			cell			"fluorouracil","tegafur"	
+TYMS	TYMS	Biochemical Reaction	FdUMP,leucovorin	Control	cell	15638735,12724731	TYMS	leucovorin	

@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+CYP2C8	CYP2C8	Biochemical Reaction	erlotinib	Control	hepatocyte		CYP2C8	erlotinib	
+EGFR	EGFR	Biochemical Reaction	erlotinib	Control			EGFR	erlotinib	
+erlotinib	OSI 420	Biochemical Reaction	CYP1A1,CYP1A2,CYP3A4,CYP3A5	Catalysis	hepatocyte		"CYP1A2","CYP1A1","CYP3A4","CYP3A5"	erlotinib	
+UGT1A1	UGT1A1	Biochemical Reaction	erlotinib	Control	hepatocyte	20580994,19850672	UGT1A1	erlotinib	
+erlotinib	erlotinib	Transport	ABCB1,ABCG2	Catalysis	hepatocyte		"ABCB1","ABCG2"	erlotinib	

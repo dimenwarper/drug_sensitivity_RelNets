@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+1,7-dimethylxanthine	1,7-dimethyluric acid	Biochemical Reaction	CYP1A2,CYP2A6	Catalysis	hepatocyte	17221922	"CYP2A6","CYP1A2"	1,7-dimethylxanthine	
+1,7-dimethylxanthine	1-methyl xanthine	Biochemical Reaction			hepatocyte			1,7-dimethylxanthine	
+1,7-dimethylxanthine	AFMU	Biochemical Reaction	NAT2	Catalysis	hepatocyte	17221922	NAT2	1,7-dimethylxanthine	
+1-methyl xanthine	1-methyluric acid	Biochemical Reaction	XDH	Catalysis	hepatocyte	17221922	XDH		
+caffeine	1,3,7-trimethyluric acid	Biochemical Reaction	CYP1A2,CYP2C8,CYP2C9,CYP2E1,CYP3A4	Catalysis	hepatocyte	19211970	"CYP2C9","CYP2C8","CYP1A2","CYP2E1","CYP3A4"	caffeine	
+caffeine	1,7-dimethylxanthine	Biochemical Reaction	CYP1A2	Catalysis	hepatocyte	19211970,17221922,8529334	CYP1A2	"caffeine","1,7-dimethylxanthine"	
+caffeine	theobromine	Biochemical Reaction	CYP1A2,CYP2E1	Catalysis	hepatocyte	19211970,1302044	"CYP1A2","CYP2E1"	"caffeine","theobromine"	
+caffeine	theophylline	Biochemical Reaction	CYP1A2,CYP2C8,CYP2C9,CYP2E1,CYP3A4	Catalysis	hepatocyte	19211970,1302044	"CYP2C9","CYP2C8","CYP1A2","CYP2E1","CYP3A4"	"caffeine","theophylline"	
+theophylline	1-methyl xanthine	Biochemical Reaction	CYP1A2	Catalysis	hepatocyte		CYP1A2	theophylline	

@@ -1,0 +1,17 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+ACO1	ACO1	Biochemical Reaction	doxorubicinol	Control	cardiac muscle cell		ACO1		
+ATP2A2	ATP2A2	Biochemical Reaction	doxorubicinol	Control	cardiac muscle cell		ATP2A2		
+ATP5A1,ATP5B,ATP5C1,ATP5C1P1,ATP5D,ATP5E,ATP5F1,ATP5H,ATP5I	ATP5A1,ATP5B,ATP5C1,ATP5C1P1,ATP5D,ATP5E,ATP5F1,ATP5H,ATP5I	Biochemical Reaction	doxorubicinol	Control	cardiac muscle cell	19442138,2897122	"ATP5B","ATP5C1P1","ATP5E","ATP5A1","ATP5D","ATP5C1","ATP5I","ATP5H","ATP5F1"		
+doxorubicin	7-deoxy-doxorubicinone,reactive oxygen species	Biochemical Reaction			cardiac muscle cell	15169927		doxorubicin	
+doxorubicin	doxorubicinol	Biochemical Reaction	AKR1A1,AKR1C3,CBR1,CBR3	Catalysis	cardiac muscle cell	20007405,18635746,18616992,12963485	"CBR1","AKR1A1","AKR1C3","CBR3"	doxorubicin	
+doxorubicin	reactive nitrogen species	Biochemical Reaction	NOS1,NOS2,NOS3	Catalysis	cardiac muscle cell	15054088,12591762,10871338	"NOS2","NOS3","NOS1"	doxorubicin	
+doxorubicin	reactive oxygen species	Biochemical Reaction	CYBA,NCF4,RAC2	Catalysis	cardiac muscle cell	17652813,16330681,16278810	"NCF4","RAC2","CYBA"	doxorubicin	
+Complex: doxorubicin-Iron (II) complex	Complex: doxorubicin-Iron (II) complex	Biochemical Reaction	dexrazoxane	Control	cardiac muscle cell	18425895,15038979,9777314,9193323,9193324		dexrazoxane	
+Fe(II)	Fe(II)	Biochemical Reaction	dexrazoxane	Control	cardiac muscle cell			dexrazoxane	
+RYR2	RYR2	Biochemical Reaction	doxorubicinol	Control	cardiac muscle cell		RYR2		
+TOP2B	TOP2B	Biochemical Reaction	dexrazoxane,doxorubicin	Control	cardiac muscle cell	19442138	TOP2B	"dexrazoxane","doxorubicin"	
+ACO1	Fe(II)	Complex Assembly			cardiac muscle cell		ACO1		
+doxorubicin	Complex: doxorubicin-Iron (II) complex	Complex Assembly			cardiac muscle cell	3533644		doxorubicin	
+calcium	calcium	Transport	ATP2A2	Catalysis	cardiac muscle cell		ATP2A2		
+CYCS	CYCS	Transport			cardiac muscle cell	12894526	CYCS		
+doxorubicin	doxorubicin	Transport			cardiac muscle cell			doxorubicin	

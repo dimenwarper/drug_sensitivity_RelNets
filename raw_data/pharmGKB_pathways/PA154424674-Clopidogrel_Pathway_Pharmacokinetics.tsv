@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+2-oxo-clopidogrel	Active metabolite	Biochemical Reaction	CYP2B6,CYP2C19,CYP2C9,CYP3A4,CYP3A5,PON1	Catalysis	hepatocyte	19812348,17361128,12485953,11127873	"CYP2C9","CYP2B6","PON1","CYP2C19","CYP3A4","CYP3A5"		
+clopidogrel	2-oxo-clopidogrel	Biochemical Reaction	CYP1A2,CYP2B6,CYP2C19	Catalysis	hepatocyte	19812348,19706858,16772608	"CYP2B6","CYP1A2","CYP2C19"	clopidogrel	
+clopidogrel	Inactive metabolite	Biochemical Reaction	CES1	Catalysis	hepatocyte	16943252,10440420	CES1	clopidogrel	
+P2RY12	P2RY12	Biochemical Reaction	Active metabolite	Control	"hepatocyte","platelet"	15199474,11127873	P2RY12		
+clopidogrel	clopidogrel	Transport	ABCB1	Catalysis	epithelial cell	17112805	ABCB1	clopidogrel	
+clopidogrel	clopidogrel	Transport			epithelial cell	10440420,10440419		clopidogrel	
+clopidogrel	clopidogrel	Transport			"hepatocyte","epithelial cell"	1510701		clopidogrel	

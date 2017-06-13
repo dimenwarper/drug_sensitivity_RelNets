@@ -1,0 +1,23 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+3-hydroxycotinine	3-hydroxycotinine glucuronide	Biochemical Reaction	UGT1A4,UGT2B7	Catalysis	hepatocyte	15470160	"UGT1A4","UGT2B7"		
+cotinine	3-hydroxycotinine	Biochemical Reaction	CYP2A13,CYP2A6	Catalysis	hepatocyte	16188955,15528319,8627511	"CYP2A6","CYP2A13"		
+cotinine	5-hydroxycotinine glucuronide	Biochemical Reaction	CYP2A6	Catalysis	hepatocyte	16359169	CYP2A6		
+cotinine	cotinine glucuronide	Biochemical Reaction	UGT1A4,UGT1A9,UGT2B10,UGT2B7	Catalysis	hepatocyte	17576790,12433823	"UGT2B10","UGT1A4","UGT1A9","UGT2B7"		
+cotinine	cotinine N-oxide	Biochemical Reaction			hepatocyte				
+cotinine	norcotinine	Biochemical Reaction	CYP2A6	Catalysis	hepatocyte		CYP2A6		
+Nicotine iminium ion	cotinine	Biochemical Reaction	AOX1,AOX2P	Catalysis	hepatocyte		"AOX2P","AOX1"		
+nicotine	nicotine glucuronide	Biochemical Reaction	UGT1A4,UGT1A9,UGT2B10,UGT2B7	Catalysis	hepatocyte	17576790,12433823	"UGT2B10","UGT1A4","UGT1A9","UGT2B7"	nicotine	
+nicotine	Nicotine iminium ion	Biochemical Reaction	CYP2A13,CYP2A6,CYP2B6	Catalysis	hepatocyte	16272956,15735609,15528319,15592323,15940289,15564629,15475735,11207029,11180041,10999944,10544257,10350185,8937855	"CYP2A6","CYP2B6","CYP2A13"	nicotine	
+nicotine	nicotine N-oxide	Biochemical Reaction	FMO3	Catalysis	hepatocyte	1446003,3380084	FMO3	nicotine	
+nicotine	nornicotine	Biochemical Reaction			hepatocyte	16135656		nicotine	
+nornicotine	norcotinine	Biochemical Reaction			hepatocyte				
+3-hydroxycotinine glucuronide	3-hydroxycotinine glucuronide	Transport			hepatocyte				
+3-hydroxycotinine	3-hydroxycotinine	Transport			hepatocyte				
+5-hydroxycotinine glucuronide	5-hydroxycotinine glucuronide	Transport			hepatocyte				
+cotinine glucuronide	cotinine glucuronide	Transport			hepatocyte				
+cotinine N-oxide	cotinine N-oxide	Transport			hepatocyte				
+cotinine	cotinine	Transport			hepatocyte				
+nicotine glucuronide	nicotine glucuronide	Transport			hepatocyte				
+nicotine N-oxide	nicotine N-oxide	Transport			hepatocyte				
+norcotinine	norcotinine	Transport			hepatocyte				
+nornicotine	nornicotine	Transport			hepatocyte				

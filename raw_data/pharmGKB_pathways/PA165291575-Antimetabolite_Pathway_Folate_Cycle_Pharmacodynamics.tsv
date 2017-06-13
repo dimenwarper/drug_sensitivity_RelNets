@@ -1,0 +1,34 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+10-formyltetrahydrofolate	IMP	Biochemical Reaction			cell				
+5,10-methylenetrahydrofolate	5,10-methyltetrahydrofolate	Biochemical Reaction	MTHFD1	Catalysis	cell	19812215,14647408	MTHFD1		
+5,10-methylenetrahydrofolate	5-methyl tetrahyrofolate	Biochemical Reaction	MTHFR	Catalysis	cell	19812215,15797993,14647408	MTHFR		
+5,10-methylenetrahydrofolate	dihydrofolate	Biochemical Reaction	TYMS	Catalysis	cell	19812215	TYMS		
+5,10-methyltetrahydrofolate	10-formyltetrahydrofolate	Biochemical Reaction	MTHFD1	Catalysis	cell	19812215,14647408	MTHFD1		
+5,10-methyltetrahydrofolate	5-formyltetrahydrofolate	Biochemical Reaction	MTHFS	Catalysis	cell	19812215,3801490	MTHFS		
+5-methyl tetrahyrofolate	tetrahydrofolate	Biochemical Reaction	cyanocobalamin,MTR,MTRR	Catalysis	cell	19812215	"MTRR","MTR"		
+ADA	ADA	Biochemical Reaction	ATIC,GART	Control	cell		"ATIC","GART","ADA"		
+adenosine	inosine	Biochemical Reaction	ADA	Catalysis	cell	12106498	ADA		
+ADP	ATP	Biochemical Reaction			cell				
+AMP	adenosine	Biochemical Reaction			cell				
+AMP	ADP	Biochemical Reaction			cell				
+ATIC	ATIC	Biochemical Reaction	methotrexate	Control	cell		ATIC	methotrexate	
+DHFR	DHFR	Biochemical Reaction	methotrexate,pemetrexed	Control	cell	16637794,14662327,12084458	DHFR	"pemetrexed","methotrexate"	
+dihydrofolate	tetrahydrofolate	Biochemical Reaction	DHFR	Catalysis	cell	19812215,14529544,12084458	DHFR		
+dUMP	dTMP	Biochemical Reaction	TYMS	Catalysis	cell		TYMS		
+GART	GART	Biochemical Reaction	methotrexate,pemetrexed	Control	cell	16637794	GART	"pemetrexed","methotrexate"	
+glycine	serine	Biochemical Reaction	SHMT1	Catalysis	cell	19812215	SHMT1		
+homocysteine	cystathionine	Biochemical Reaction	CBS	Catalysis	cell	19812215	CBS		
+homocysteine	methionine	Biochemical Reaction	cyanocobalamin,MTR,MTRR	Catalysis	cell	19812215	"MTRR","MTR"		
+IMP	AMP	Biochemical Reaction			cell				
+IMP	IMP	Biochemical Reaction		Control	cell				
+IMP	inosine	Biochemical Reaction			cell				
+inosine	hypoxanthine	Biochemical Reaction			cell				
+methionine	S-adenosylmethionine	Biochemical Reaction			cell	19812215			
+MTHFR	MTHFR	Biochemical Reaction	S-adenosylmethionine	Control	cell		MTHFR		
+PPAT	PPAT	Biochemical Reaction	methotrexate,purine analogues	Control	cell	10432311,9744080,5788533	PPAT	"methotrexate","purine analogues"	
+protein	methylated protein	Biochemical Reaction		Catalysis	cell				
+S-adenosylhomocysteine	homocysteine	Biochemical Reaction			cell				
+S-adenosylmethionine	S-adenosylhomocysteine	Biochemical Reaction		Catalysis	cell	19812215			
+tetrahydrofolate	10-formyltetrahydrofolate	Biochemical Reaction	MTHFD1	Catalysis	cell		MTHFD1		
+tetrahydrofolate	5,10-methylenetrahydrofolate	Biochemical Reaction	SHMT1	Catalysis	cell	19812215,15797993	SHMT1		
+TYMS	TYMS	Biochemical Reaction	leucovorin,methotrexate,pemetrexed,Pyrimidine analogues,raltitrexed	Control	cell	16637794,15638735,12819937,12724731,12084458	TYMS	"Pyrimidine analogues","pemetrexed","methotrexate","raltitrexed","leucovorin"	

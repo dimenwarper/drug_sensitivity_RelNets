@@ -1,0 +1,24 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+5'-deoxy-5-fluorouridine	fluorouracil	Biochemical Reaction	TYMP,UPP1,UPP2	Catalysis	hepatocyte	18172246,11956089,9849491	"UPP2","UPP1","TYMP"	fluorouracil	
+5'dFCR	5'-deoxy-5-fluorouridine	Biochemical Reaction	CDA	Catalysis	hepatocyte	18172246,9849491	CDA		
+capecitabine	5'dFCR	Biochemical Reaction	CES1,CES2	Catalysis	hepatocyte	18172246	"CES2","CES1"	capecitabine	
+dihydrofluorouracil	fluoro-beta-ureidopropionate	Biochemical Reaction	DPYS	Catalysis	hepatocyte	18075467	DPYS		
+FdUDP	FdUMP	Biochemical Reaction			hepatocyte				
+FdUDP	FdUTP	Biochemical Reaction			hepatocyte				
+fluoro-beta-ureidopropionate	fluoro-beta-alanine	Biochemical Reaction	UPB1	Catalysis	hepatocyte	14555507	UPB1		
+fluorodeoxyuridine	FdUMP	Biochemical Reaction	TK1	Catalysis	hepatocyte	12724731	TK1		
+fluorouracil	dihydrofluorouracil	Biochemical Reaction	DPYD	Catalysis	hepatocyte	14555507	DPYD	fluorouracil	
+fluorouracil	fluorodeoxyuridine	Biochemical Reaction	TYMP	Catalysis	hepatocyte	12724731,10741735	TYMP	fluorouracil	
+fluorouracil	fluorouridine monophosphate	Biochemical Reaction	PPAT,UMPS	Catalysis	hepatocyte		"PPAT","UMPS"	fluorouracil	
+fluorouracil	fluroridine	Biochemical Reaction	UPP1,UPP2	Catalysis	hepatocyte	11956089	"UPP2","UPP1"	fluorouracil	
+fluorouridine diphosphate	FdUDP	Biochemical Reaction	RRM1,RRM2	Catalysis	hepatocyte	12724731	"RRM1","RRM2"		
+fluorouridine diphosphate	fluorouridine triphosphate	Biochemical Reaction			hepatocyte				
+fluorouridine monophosphate	fluorouridine diphosphate	Biochemical Reaction			hepatocyte				
+fluroridine	fluorouridine monophosphate	Biochemical Reaction	UCK1,UCK2	Catalysis	hepatocyte	12724731	"UCK2","UCK1"		
+tegafur	5'hydroxytegafur	Biochemical Reaction	CYP2A6	Catalysis	hepatocyte	18172246	CYP2A6	tegafur	
+TYMS	TYMS	Biochemical Reaction	FdUMP	Control	hepatocyte	19339911,12724731	TYMS		
+5'hydroxytegafur	fluorouracil	Conversion			hepatocyte			fluorouracil	
+fluorouracil	fluorouracil	Transport	ABCC3,ABCC4,ABCC5	Catalysis	hepatocyte	19077464	"ABCC3","ABCC4","ABCC5"	fluorouracil	
+fluorouracil	fluorouracil	Transport	SLC29A1	Catalysis	hepatocyte	18992248,17695509	SLC29A1	fluorouracil	
+fluorouracil	fluorouracil	Transport	ABCC4,ABCG2	Catalysis	hepatocyte	18820913,19077464,18837291	"ABCC4","ABCG2"	fluorouracil	
+fluorouracil	fluorouracil	Transport	SLC22A7	Catalysis	hepatocyte	15901346	SLC22A7	fluorouracil	

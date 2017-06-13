@@ -1,0 +1,15 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+irinotecan	APC	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte		CYP3A4	irinotecan	
+irinotecan	M4	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte		"CYP3A4","CYP3A5"	irinotecan	
+irinotecan	NPC	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte		"CYP3A4","CYP3A5"	irinotecan	
+irinotecan	SN-38	Biochemical Reaction	CES1,CES2	Catalysis	enterocyte	12960109	"CES2","CES1"	"SN-38","irinotecan"	
+irinotecan	SN-38	Biochemical Reaction	BCHE,CES1,CES2	Catalysis	cell		"BCHE","CES2","CES1"	"SN-38","irinotecan"	
+irinotecan	SN-38	Biochemical Reaction	CES1,CES2	Catalysis	hepatocyte	12960109	"CES2","CES1"	"SN-38","irinotecan"	
+NPC	SN-38	Biochemical Reaction	CES1,CES2	Catalysis	hepatocyte		"CES2","CES1"	SN-38	
+SN-38	SN-38G	Biochemical Reaction	UGT1A1,UGT1A10	Catalysis	enterocyte	12893990	"UGT1A10","UGT1A1"	SN-38	
+SN-38	SN-38G	Biochemical Reaction	UGT1A1,UGT1A9	Catalysis	hepatocyte		"UGT1A1","UGT1A9"	SN-38	
+irinotecan	irinotecan	Transport	ABCB1,ABCC2	Catalysis	hepatocyte		"ABCB1","ABCC2"	irinotecan	
+SN-38	SN-38	Transport	ABCB1,ABCC2,ABCG2	Catalysis	"hepatocyte","cell"		"ABCB1","ABCC2","ABCG2"	SN-38	
+SN-38	SN-38	Transport	SLCO1B1	Catalysis	"hepatocyte","cell"		SLCO1B1	SN-38	
+SN-38	SN-38	Transport	ABCC1	Catalysis	"hepatocyte","cell"		ABCC1	SN-38	
+SN-38G	SN-38G	Transport	ABCC2	Catalysis	hepatocyte		ABCC2		

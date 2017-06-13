@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+fluvastatin	Active & Inactive metabolites	Biochemical Reaction	CYP2C19,CYP2C8,CYP2C9	Catalysis	hepatocyte	15998357,12891229,10064574	"CYP2C9","CYP2C8","CYP2C19"	fluvastatin	
+fluvastatin	Active & Inactive metabolites	Biochemical Reaction	CYP2D6,CYP3A4,CYP3A5,UGT1A1,UGT1A3,UGT2B7	Catalysis	hepatocyte		"UGT1A1","CYP2D6","UGT1A3","CYP3A4","CYP3A5","UGT2B7"	fluvastatin	
+fluvastatin	fluvastatin	Transport	SLC15A1	Catalysis	enterocyte	15846457,11741242	SLC15A1	fluvastatin	
+fluvastatin	fluvastatin	Transport	SLCO1B1,SLCO1B3,SLCO2B1	Catalysis	hepatocyte	15548849	"SLCO1B1","SLCO2B1","SLCO1B3"	fluvastatin	

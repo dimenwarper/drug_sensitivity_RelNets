@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+4-hydroxycyclophosphamide	aldophosphamide	Biochemical Reaction			hepatocyte	10469895,6708049			
+cyclophosphamide	2-dechloroethyl cyclophosphamide,chloroacetaldehyde	Biochemical Reaction	CYP2B6,CYP3A4,CYP3A5	Catalysis	hepatocyte	10692561,10348794,9331082,9010702	"CYP2B6","CYP3A4","CYP3A5"	cyclophosphamide	
+cyclophosphamide	4-hydroxycyclophosphamide	Biochemical Reaction	CYP2A6,CYP2B6,CYP2C19,CYP2C8,CYP2C9,CYP3A4,CYP3A5	Catalysis	hepatocyte	12684728,12629583,10348794,10410955,9884322,9331082,8242617	"CYP2C9","CYP2A6","CYP2C8","CYP2B6","CYP2C19","CYP3A4","CYP3A5"	cyclophosphamide	
+cyclophosphamide	cyclophosphamide	Transport			hepatocyte			cyclophosphamide	

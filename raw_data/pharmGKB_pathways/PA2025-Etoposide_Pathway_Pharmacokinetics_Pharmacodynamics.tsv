@@ -1,0 +1,15 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+ABCB1	ABCB1	Biochemical Reaction	NR1I2	Control	cell	11297522	"ABCB1","NR1I2"		
+catechol	quinone	Biochemical Reaction	MPO	Catalysis	cell		MPO		
+CYP3A4	CYP3A4	Biochemical Reaction	NR1I2,VDR	Control	cell	11991950,11723248,10935643,9145912	"VDR","NR1I2","CYP3A4"		
+CYP3A5	CYP3A5	Biochemical Reaction	NR1I2	Control	cell		"NR1I2","CYP3A5"		
+etoposide	catechol	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	cell		"CYP3A4","CYP3A5"	etoposide	
+etoposide	etoposide glucuronide	Biochemical Reaction	UGT1A1	Catalysis	cell		UGT1A1	etoposide	
+etoposide	quinone	Biochemical Reaction	PTGS1,PTGS2	Catalysis	cell		"PTGS2","PTGS1"	etoposide	
+NR1I2	NR1I2	Biochemical Reaction	dexamethasone,etoposide,rifampin	Control	cell	12181418	NR1I2	"dexamethasone","rifampin","etoposide"	
+quinone	glutathione conjugate	Biochemical Reaction	GSTP1,GSTT1	Catalysis	cell		"GSTP1","GSTT1"		
+TOP2A,TOP2B	TOP2A,TOP2B	Biochemical Reaction	catechol,etoposide,quinone	Control	cell	17361331,17578914,11531262,9748598,9155056,7979257,3621161,3030329,2934259	"TOP2A","TOP2B"	etoposide	
+vitamin D	VDR	Complex Assembly			cell		VDR		
+etoposide glucuronide	etoposide glucuronide	Transport	ABCC3	Catalysis	cell		ABCC3		
+etoposide	etoposide	Transport	ABCB1,ABCC3	Catalysis	cell		"ABCC3","ABCB1"	etoposide	
+glutathione conjugate	glutathione conjugate	Transport	ABCC1	Catalysis	cell		ABCC1		

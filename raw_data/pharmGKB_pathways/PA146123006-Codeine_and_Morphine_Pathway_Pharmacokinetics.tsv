@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+codeine	codeine-6-glucuronide	Biochemical Reaction	UGT2B7	Catalysis	hepatocyte	9010622	UGT2B7	codeine	
+codeine	morphine	Biochemical Reaction	CYP2D6,CYP2D7	Catalysis	hepatocyte	15625333,15051713	"CYP2D7","CYP2D6"	"codeine","morphine"	
+codeine	norcodeine	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte		CYP3A4	codeine	
+morphine	morphine-3-glucuronide	Biochemical Reaction	UGT1A1,UGT2B7	Catalysis	hepatocyte	12811366,12629580,12185559,9010622	"UGT1A1","UGT2B7"	morphine	
+morphine	morphine-6-glucuronide	Biochemical Reaction	UGT1A1,UGT2B7	Catalysis	hepatocyte	12811366,12629580,12185559,9010622	"UGT1A1","UGT2B7"	morphine	
+morphine	normorphine	Biochemical Reaction			hepatocyte			morphine	
+codeine-6-glucuronide	codeine-6-glucuronide	Transport	ABCB1,ABCC2,ABCC3,SLCO1B1	Catalysis	hepatocyte		"ABCC3","SLCO1B1","ABCB1","ABCC2"		
+morphine-3-glucuronide	morphine-3-glucuronide	Transport	ABCB1,ABCC2,ABCC3,SLCO1B1	Catalysis	hepatocyte	15886284,12492606	"ABCC3","SLCO1B1","ABCB1","ABCC2"		
+morphine-6-glucuronide	morphine-6-glucuronide	Transport	ABCB1,ABCC2,ABCC3,SLCO1B1	Catalysis	hepatocyte	15886284,12185559	"ABCC3","SLCO1B1","ABCB1","ABCC2"		

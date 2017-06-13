@@ -1,0 +1,25 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+ACE	ACE	Biochemical Reaction	Ace Inhibitors, Plain	Control	endothelial cell	19082699,19074621,18035185	ACE	Ace Inhibitors, Plain	
+ACE	ACE	Biochemical Reaction	Ace Inhibitors, Plain	Control	endothelial cell	19082699,19074621,18035185	ACE	Ace Inhibitors, Plain	
+ACE	ACE	Biochemical Reaction	Ace Inhibitors, Plain	Control	endothelial cell	19082699,19074621,18035185	ACE	Ace Inhibitors, Plain	
+AGT	angiotensin I	Biochemical Reaction	REN	Catalysis		18035185	"REN","AGT"		
+AGTR1	AGTR1	Biochemical Reaction	angiotensin II	Control	cell	17717300,18035185	AGTR1		
+AGTR2	AGTR2	Biochemical Reaction	angiotensin II	Control	cell	17717300,18035185,15134803	AGTR2		
+angiotensin 1-7	angiotensin 1-5	Biochemical Reaction	ACE	Catalysis	endothelial cell	18035185	ACE		
+angiotensin 1-9	angiotensin 1-7	Biochemical Reaction	MME	Catalysis		21052031	MME		
+angiotensin I	angiotensin 1-9	Biochemical Reaction	ACE2	Catalysis	endothelial cell	18035185	ACE2		
+angiotensin I	angiotensin II	Biochemical Reaction	ACE,CMA1,CTSG	Catalysis	endothelial cell	18035185,9535416	"ACE","CMA1","CTSG"		
+angiotensin II	angiotensin 1-7	Biochemical Reaction	ACE2	Catalysis	endothelial cell	18035185	ACE2		
+ATP6AP2	ATP6AP2	Biochemical Reaction	REN	Control	cell	18417113	"ATP6AP2","REN"		
+BDKRB1	BDKRB1	Biochemical Reaction	bradykinin	Control	cell	18182246,9207629	BDKRB1		
+BDKRB2	BDKRB2	Biochemical Reaction	bradykinin	Control	cell	21052031,18182246,9535416,9207629	BDKRB2		
+calcium	calcium	Biochemical Reaction	AGTR1	Control	cell	15134803	AGTR1		
+CYP11B2	aldosterone	Biochemical Reaction			cell	15134803	CYP11B2		
+CYP11B2	CYP11B2	Biochemical Reaction	AGTR1,calcium	Control	cell	15134803	"CYP11B2","AGTR1"		
+KNG1	bradykinin	Biochemical Reaction	ACE	Catalysis	endothelial cell	9207629	"ACE","KNG1"		
+MAPK1	MAPK1	Biochemical Reaction	ATP6AP2	Control	cell	18417113	"ATP6AP2","MAPK1"		
+MAPK3	MAPK3	Biochemical Reaction	ATP6AP2	Control	cell	18417113	"ATP6AP2","MAPK3"		
+MAS1	MAS1	Biochemical Reaction	angiotensin 1-7	Control	cell	18449520,18035185	MAS1		
+NOS3	NOS3	Biochemical Reaction	BDKRB2	Control	cell	20712529,19082699,18182246,12785010,9207629	"NOS3","BDKRB2"		
+NR3C2	NR3C2	Biochemical Reaction	aldosterone	Control	cell	18729003	NR3C2		
+TGFB1	TGFB1	Biochemical Reaction	MAPK1,MAPK3	Control	cell	18417113	"TGFB1","MAPK1","MAPK3"		

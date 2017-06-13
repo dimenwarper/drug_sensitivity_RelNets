@@ -1,0 +1,36 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+5,10-methylenetrahydrofolate	5,10-methyltetrahydrofolate	Biochemical Reaction	MTHFD1	Catalysis	cell	19812215,14647408	MTHFD1		
+5,10-methylenetrahydrofolate	5-methyl tetrahyrofolate	Biochemical Reaction	MTHFR	Catalysis	cell	19812215,15797993,14647408	MTHFR		
+5,10-methylenetrahydrofolate	dihydrofolate	Biochemical Reaction	TYMS	Catalysis	cell	19812215	TYMS		
+5,10-methyltetrahydrofolate	10-formyltetrahydrofolate	Biochemical Reaction	MTHFD1	Catalysis	cell	19812215,14647408	MTHFD1		
+5-formyltetrahydrofolate	5,10-methyltetrahydrofolate	Biochemical Reaction	MTHFS	Catalysis	cell	19812215,3801490	MTHFS		
+5-methyl tetrahyrofolate	tetrahydrofolate	Biochemical Reaction	cyanocobalamin,MTR,MTRR	Catalysis	cell	19812215	"MTRR","MTR"		
+	IMP	Biochemical Reaction		Control	cell				
+ADA	ADA	Biochemical Reaction	ATIC,GART	Control	cell		"ATIC","GART","ADA"		
+adenosine	inosine	Biochemical Reaction	ADA	Catalysis	cell	12106498	ADA		
+ADP	ATP	Biochemical Reaction			cell				
+AMP	adenosine	Biochemical Reaction			cell				
+AMP	ADP	Biochemical Reaction			cell				
+ATIC	ATIC	Biochemical Reaction	methotrexate polyglutamate (2 to 7)	Control	cell		ATIC		
+DHFR	DHFR	Biochemical Reaction	methotrexate,methotrexate glutamate,methotrexate polyglutamate (2 to 7)	Control	cell		DHFR	methotrexate	
+dihydrofolate	tetrahydrofolate	Biochemical Reaction	DHFR	Catalysis	cell	19812215,14529544,12084458	DHFR		
+dUMP	dTMP	Biochemical Reaction	TYMS	Catalysis	cell		TYMS		
+GART	GART	Biochemical Reaction	methotrexate polyglutamate (2 to 7)	Control	cell		GART		
+glycine	serine	Biochemical Reaction	SHMT1	Catalysis	cell	19812215	SHMT1		
+homocysteine	cystathionine	Biochemical Reaction	CBS	Catalysis	cell	19812215	CBS		
+homocysteine	methionine	Biochemical Reaction	cyanocobalamin,MTR,MTRR	Catalysis	cell	19812215	"MTRR","MTR"		
+IMP	AMP	Biochemical Reaction			cell				
+IMP	inosine	Biochemical Reaction			cell				
+inosine	hypoxanthine	Biochemical Reaction			cell				
+methionine	S-adenosylmethionine	Biochemical Reaction			cell	19812215			
+methotrexate glutamate	methotrexate polyglutamate (2 to 7)	Biochemical Reaction	FPGS	Catalysis	cell	19902562,19131550,17875718,12494465,10029597	FPGS		
+methotrexate polyglutamate (2 to 7)	methotrexate polyglutamate (n-1 to 6)	Biochemical Reaction	GGH	Catalysis	cell	19827168,17409534,17286537,14597182,11389096	GGH		
+methotrexate polyglutamate (n-1 to 6)	methotrexate glutamate	Biochemical Reaction			cell				
+methotrexate	methotrexate glutamate	Biochemical Reaction			cell			methotrexate	
+MTHFR	MTHFR	Biochemical Reaction	S-adenosylmethionine	Control	cell		MTHFR		
+PPAT	PPAT	Biochemical Reaction	methotrexate polyglutamate (2 to 7)	Control	cell		PPAT		
+S-adenosylhomocysteine	homocysteine	Biochemical Reaction			cell				
+S-adenosylmethionine	S-adenosylhomocysteine	Biochemical Reaction		Catalysis	cell	19812215			
+tetrahydrofolate	10-formyltetrahydrofolate	Biochemical Reaction	MTHFD1	Catalysis	cell	19812215,14647408	MTHFD1		
+tetrahydrofolate	5,10-methylenetrahydrofolate	Biochemical Reaction	SHMT1	Catalysis	cell	19812215,15797993	SHMT1		
+TYMS	TYMS	Biochemical Reaction	methotrexate polyglutamate (2 to 7)	Control	cell		TYMS		

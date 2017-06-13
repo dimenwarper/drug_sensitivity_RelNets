@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+4-hydroxy-ifosfamide	alsoifosfamide	Biochemical Reaction			hepatocyte	9137530			
+alsoifosfamide	carboxyifosfamide	Biochemical Reaction	ALDH1A1	Catalysis	hepatocyte	16393888	ALDH1A1		
+alsoifosfamide	acrolein,isophosphoramide mustard	Biochemical Reaction			hepatocyte	16393888			
+ifosfamide	2-dechloroethyl ifosfamide	Biochemical Reaction	CYP2B6,CYP3A4,CYP3A5	Catalysis	hepatocyte	10348794	"CYP2B6","CYP3A4","CYP3A5"	ifosfamide	
+ifosfamide	4-hydroxy-ifosfamide	Biochemical Reaction	CYP2A6,CYP2B6,CYP2C8,CYP2C9,CYP3A4,CYP3A5	Catalysis	hepatocyte	10348794	"CYP2C9","CYP2A6","CYP2C8","CYP2B6","CYP3A4","CYP3A5"	ifosfamide	
+ifosfamide	ifosfamide	Transport			hepatocyte			ifosfamide	

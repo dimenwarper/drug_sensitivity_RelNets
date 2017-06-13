@@ -1,0 +1,11 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+R-omeprazole	3-hydroxyomeprazole	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	16093273	CYP3A4		
+R-omeprazole	5'O-desmethylomeprazole	Biochemical Reaction	CYP2C19	Catalysis	hepatocyte	16093273	CYP2C19		
+R-omeprazole	5'O-desmethylomeprazole	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	16093273	CYP3A4		
+R-omeprazole	5-hydroxyomeprazole	Biochemical Reaction	CYP2C19	Catalysis	hepatocyte	16093273	CYP2C19		
+R-omeprazole	5-hydroxyomeprazole	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	16093273	CYP3A4		
+R-omeprazole	omeprazole sulfone	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	16093273	CYP3A4		
+S-omeprazole	3-hydroxyomeprazole	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	16093273	CYP3A4		
+S-omeprazole	5'O-desmethylomeprazole	Biochemical Reaction	CYP2C19	Catalysis	hepatocyte	16093273	CYP2C19		
+S-omeprazole	5-hydroxyomeprazole	Biochemical Reaction	CYP2C19	Catalysis	hepatocyte	16093273	CYP2C19		
+omeprazole	omeprazole	Transport	ABCB1	Catalysis	hepatocyte	11770010	ABCB1	omeprazole	

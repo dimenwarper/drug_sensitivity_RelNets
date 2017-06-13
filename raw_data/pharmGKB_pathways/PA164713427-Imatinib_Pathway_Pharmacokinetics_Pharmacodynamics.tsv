@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+Complex: BCR-ABL(ABL1, BCR)	Complex: BCR-ABL(ABL1, BCR)	Biochemical Reaction	imatinib	Control	blood cell	16122278,13679030,12755554,11287972	"BCR","ABL1"	imatinib	
+imatinib	CGP 74588	Biochemical Reaction	CYP1A2,CYP2C19,CYP2C9,CYP2D6,CYP3A4,CYP3A5	Catalysis	hepatocyte	16122278,15828850	"CYP2C9","CYP2D6","CYP1A2","CYP2C19","CYP3A4","CYP3A5"	imatinib	
+imatinib	Inactive metabolites	Biochemical Reaction	CYP1A2,CYP2C19,CYP2C9,CYP2D6,CYP3A4,CYP3A5	Catalysis	hepatocyte	16122278,15828850	"CYP2C9","CYP2D6","CYP1A2","CYP2C19","CYP3A4","CYP3A5"	imatinib	
+KIT	KIT	Biochemical Reaction	imatinib	Control	epithelial cell	17385949,16122278,11870247	KIT	imatinib	
+imatinib	imatinib	Transport	ABCB1,ABCG2	Catalysis	epithelial cell		"ABCB1","ABCG2"	imatinib	
+imatinib	imatinib	Transport	ABCB1,ABCG2	Catalysis	blood cell		"ABCB1","ABCG2"	imatinib	
+imatinib	imatinib	Transport			epithelial cell			imatinib	
+imatinib	imatinib	Transport			blood cell			imatinib	
+imatinib	imatinib	Transport			hepatocyte			imatinib	

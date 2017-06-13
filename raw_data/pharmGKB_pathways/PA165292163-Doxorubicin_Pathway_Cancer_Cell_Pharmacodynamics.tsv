@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+doxorubicin	dox-semiquinone	Biochemical Reaction	CAT,GPX1,NOS3,NQO1,SOD1,XDH	Catalysis,Control	cell	12688675,9333325,1911046	"NQO1","GPX1","NOS3","CAT","XDH","SOD1"	doxorubicin	
+TOP2A	TOP2A	Biochemical Reaction	doxorubicin	Control	cell	2551497,6093249	TOP2A	doxorubicin	
+dox-semiquinone	doxorubicin	Conversion			cell	19442138,3005279		doxorubicin	
+dox-semiquinone	reactive oxygen species	Conversion			cell				
+doxorubicin	doxorubicin	Transport	SLC22A16	Catalysis	cell	17559346	SLC22A16	doxorubicin	
+doxorubicin	doxorubicin	Transport		Control	cell	11289116		doxorubicin	
+doxorubicin	doxorubicin	Transport	ABCB1,ABCC1,ABCC2,ABCG2,RALBP1	Catalysis	cell	17704753,15164094,12527936,12370750,11172691,7954421,1352877,3180056,7214365	"ABCC1","RALBP1","ABCB1","ABCC2","ABCG2"	doxorubicin	

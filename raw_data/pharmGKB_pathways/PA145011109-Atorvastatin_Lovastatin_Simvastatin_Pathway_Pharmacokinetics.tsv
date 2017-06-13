@@ -1,0 +1,13 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PubMed Id	Genes	Drugs	Diseases
+atorvastatin	Active & Inactive metabolites	Biochemical Reaction	CYP2C19,CYP2C8,CYP2C9,CYP2D6,CYP3A4,CYP3A5,UGT1A1,UGT1A3,UGT2B7	Catalysis	hepatocyte	16388406,15801541,12848784	"CYP2C9","CYP2C8","UGT1A1","CYP2D6","UGT1A3","CYP2C19","CYP3A4","CYP3A5","UGT2B7"	atorvastatin	
+atorvastatin	Active & Inactive metabolites	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	enterocyte		"CYP3A4","CYP3A5"	atorvastatin	
+lovastatin	Active & Inactive metabolites	Biochemical Reaction	CYP2C19,CYP2C8,CYP2C9,CYP2D6,CYP3A4,CYP3A5,UGT1A1,UGT1A3,UGT2B7	Catalysis	hepatocyte	16388406,15801541,12848784	"CYP2C9","CYP2C8","UGT1A1","CYP2D6","UGT1A3","CYP2C19","CYP3A4","CYP3A5","UGT2B7"	lovastatin	
+lovastatin	Active & Inactive metabolites	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	enterocyte		"CYP3A4","CYP3A5"	lovastatin	
+simvastatin	Active & Inactive metabolites	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	enterocyte		"CYP3A4","CYP3A5"	simvastatin	
+simvastatin	Active & Inactive metabolites	Biochemical Reaction	CYP2C19,CYP2C8,CYP2C9,CYP2D6,CYP3A4,CYP3A5,UGT1A1,UGT1A3,UGT2B7	Catalysis	hepatocyte	16388406,15801541,12848784	"CYP2C9","CYP2C8","UGT1A1","CYP2D6","UGT1A3","CYP2C19","CYP3A4","CYP3A5","UGT2B7"	simvastatin	
+atorvastatin	atorvastatin	Transport	SLCO1B1,SLCO1B3,SLCO2B1	Catalysis	hepatocyte		"SLCO1B1","SLCO2B1","SLCO1B3"	atorvastatin	
+atorvastatin	atorvastatin	Transport	ABCB1,ABCC2	Catalysis	hepatocyte		"ABCB1","ABCC2"	atorvastatin	
+lovastatin	lovastatin	Transport	SLCO1B1,SLCO1B3,SLCO2B1	Catalysis	hepatocyte		"SLCO1B1","SLCO2B1","SLCO1B3"	lovastatin	
+lovastatin	lovastatin	Transport	ABCB1,ABCC2	Catalysis	hepatocyte		"ABCB1","ABCC2"	lovastatin	
+simvastatin	simvastatin	Transport	SLCO1B1,SLCO1B3,SLCO2B1	Catalysis	hepatocyte		"SLCO1B1","SLCO2B1","SLCO1B3"	simvastatin	
+simvastatin	simvastatin	Transport	ABCB1,ABCC2	Catalysis	hepatocyte		"ABCB1","ABCC2"	simvastatin	
